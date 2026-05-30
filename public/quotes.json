@@ -1,0 +1,184 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "The moment you give up is the moment you let someone else win.",
+      "author": "Kobe Bryant",
+      "category": "motivation"
+    },
+    {
+      "id": 2,
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "life"
+    },
+    {
+      "id": 3,
+      "quote": "A ninja must see through deception. But first, he must survive the Wi-Fi outage.",
+      "author": "Unknown",
+      "category": "funny"
+    },
+    {
+      "id": 4,
+      "quote": "Real strength is not about how hard you can hit. It is about how hard you can get hit and keep moving forward.",
+      "author": "Inspired by Hajime no Ippo",
+      "category": "anime"
+    },
+    {
+      "id": 5,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "category": "programming"
+    },
+    {
+      "id": 6,
+      "quote": "Push yourself because no one else is going to do it for you.",
+      "author": "Unknown",
+      "category": "motivation"
+    },
+    {
+      "id": 7,
+      "quote": "Life is not about waiting for the storm to pass but learning to dance in the rain.",
+      "author": "Vivian Greene",
+      "category": "life"
+    },
+    {
+      "id": 8,
+      "quote": "I asked my dog what two minus two is. He said nothing.",
+      "author": "Unknown",
+      "category": "funny"
+    },
+    {
+      "id": 9,
+      "quote": "If you do not like your destiny, do not accept it. Instead, have the courage to change it the way you want it to be.",
+      "author": "Inspired by Naruto",
+      "category": "anime"
+    },
+    {
+      "id": 10,
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler",
+      "category": "programming"
+    },
+    {
+      "id": 11,
+      "quote": "Dream big. Start small. Act now.",
+      "author": "Robin Sharma",
+      "category": "motivation"
+    },
+    {
+      "id": 12,
+      "quote": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West",
+      "category": "life"
+    },
+    {
+      "id": 13,
+      "quote": "I am not lazy. I am on energy-saving mode.",
+      "author": "Unknown",
+      "category": "funny"
+    },
+    {
+      "id": 14,
+      "quote": "Even if I am the only one, I will stand and fight. That is what it means to never give up.",
+      "author": "Inspired by Bleach",
+      "category": "anime"
+    },
+    {
+      "id": 15,
+      "quote": "Debugging is like being the detective in a crime movie where you are also the murderer.",
+      "author": "Filipe Fortes",
+      "category": "programming"
+    },
+    {
+      "id": 16,
+      "quote": "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "motivation"
+    },
+    {
+      "id": 17,
+      "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+      "author": "Mark Twain",
+      "category": "life"
+    },
+    {
+      "id": 18,
+      "quote": "I told my wife she should embrace her mistakes. She gave me a hug.",
+      "author": "Unknown",
+      "category": "funny"
+    },
+    {
+      "id": 19,
+      "quote": "People who cannot throw something important away can never hope to change anything.",
+      "author": "Inspired by Fullmetal Alchemist",
+      "category": "anime"
+    },
+    {
+      "id": 20,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries",
+      "category": "programming"
+    },
+    {
+      "id": 21,
+      "quote": "Do not watch the clock. Do what it does — keep going.",
+      "author": "Sam Levenson",
+      "category": "motivation"
+    },
+    {
+      "id": 22,
+      "quote": "In three words I can sum up everything I have learned about life: it goes on.",
+      "author": "Robert Frost",
+      "category": "life"
+    },
+    {
+      "id": 23,
+      "quote": "My bed is a magical place where I suddenly remember everything I forgot to do.",
+      "author": "Unknown",
+      "category": "funny"
+    },
+    {
+      "id": 24,
+      "quote": "The world is not beautiful. Therefore it is.",
+      "author": "Inspired by Kino's Journey",
+      "category": "anime"
+    },
+    {
+      "id": 25,
+      "quote": "It works on my machine. Ship my machine.",
+      "author": "Unknown Developer",
+      "category": "programming"
+    },
+    {
+      "id": 26,
+      "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "category": "motivation"
+    },
+    {
+      "id": 27,
+      "quote": "You do not need to have it all figured out to move forward.",
+      "author": "Unknown",
+      "category": "life"
+    },
+    {
+      "id": 28,
+      "quote": "I used to think I was indecisive, but now I am not so sure.",
+      "author": "Unknown",
+      "category": "funny"
+    },
+    {
+      "id": 29,
+      "quote": "No matter how deep the night, it always turns to day eventually.",
+      "author": "Inspired by One Piece",
+      "category": "anime"
+    },
+    {
+      "id": 30,
+      "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author": "Edward V. Berard",
+      "category": "programming"
+    }
+  ]
+}

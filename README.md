@@ -21,7 +21,7 @@ https://quotegen-85w.pages.dev
 ##  Setup & Installation
 
 ### Clone the repository
-git clone https://github.com/your-username/quoteGen.git
+git clone https://github.com/idli69/quoteGen.git
 
 ### Install dependencies
 npm install

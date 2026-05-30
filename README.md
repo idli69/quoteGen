@@ -18,20 +18,6 @@ https://quotegen-85w.pages.dev
 
 ---
 
-## 📂 Project Structure
-
-project/
-├── public/
-│   └── quotes.json
-├── src/
-│   ├── main.js
-│   └── style.css
-├── index.html
-├── vite.config.js
-└── package.json
-
----
-
 ##  Setup & Installation
 
 ### Clone the repository

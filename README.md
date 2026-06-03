@@ -1,16 +1,16 @@
-# 📜 QuoteGen
+# QuoteGen : random quote generator
 
-It displays random quotes  like motivation, life, anime, programming, and funny quotes.
+It displays random quotes (hard-coded) like motivation, life, anime, programming, and funny quotes.
 
 ---
 
-## 🚀 Live Demo
+## Demo
 https://quotegen-85w.pages.dev
 
 ---
 
 
-##  Stack
+## Stack
 
 - HTML
 - Tailwind CSS
@@ -28,35 +28,21 @@ git clone https://github.com/idli69/quoteGen.git
 ### Install dependencies
 ```
 npm install
-```
-
-### Run development server
-```
 npm run dev
-```
-
-### Build for production
-```
-npm run build
-```
-
-### Preview build
-```
-npm run preview
 ```
 
 ---
 
-## 📄 How It Works
+## How Does It Work
 
 1. Quotes are stored in a local quotes.json file  
-2. JavaScript fetches and parses the file  
+2. JavaScript fetches and parses the jsonfile  
 3. A random quote is selected  
 4. UI updates on button click  
 
 ---
 
-## 💡 Future Improvements
+## TODO Improvements
 
 - Filter quotes by category  
 - Save favorite quotes  
